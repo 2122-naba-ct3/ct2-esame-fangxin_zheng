@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f6b142dd52f72034caf6d75df5012a4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - helathBar: {fileID: 5969394823648269148, guid: 8d8a830489e1a1c42b9f46a2e7aab856, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
